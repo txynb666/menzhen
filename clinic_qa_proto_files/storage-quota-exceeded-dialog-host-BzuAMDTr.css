@@ -1,0 +1,1 @@
+.storage-quota-modal-overlay{z-index:calc(var(--cb-z-index-modal-confirm, 100001) + 5)!important}
